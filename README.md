@@ -1,4 +1,4 @@
-# zlib 1.2.11 compiled and linked using MinGW-w64 GCC version 8.1.0 on Windows using MSYS2
+# zlib 1.2.11 compiled and linked using MinGW-w64 GCC version 8.1.0 on Windows/MSYS2
 
 Using shared runtime libraries from your toolchain's /bin directory.
  
