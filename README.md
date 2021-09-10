@@ -2,7 +2,7 @@
 
 Using shared runtime libraries from your toolchain's /bin directory.
 
-No source has been modified once unzipped as of yet and should only occur if problems arise with this setup.
+No source code files have been modified as of yet and should only occur if problems arise with this setup.
 
 Download:
 
