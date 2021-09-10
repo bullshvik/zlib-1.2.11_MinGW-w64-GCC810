@@ -1,2 +1,7 @@
-# w64gcc810
+# zlib 1.2.11 compiled and linked using MinGW-w64 GCC version 8.1.0 on Windows using MSYS2
+
+Using shared runtime libraries from your toolchain's /bin directory.
  
+Download:
+
+https://github.com/bullshvik/zlib-1.2.11_MinGW-w64-GCC810_WIN_MSYS2/blob/9d222b35f8d4a00be5104285085ace121710177b/zlib1.2.11-mingw-w64gcc810dwarf.zip
